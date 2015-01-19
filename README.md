@@ -20,6 +20,21 @@ Several simple experiments I made.
 
 Disclaimer: I'm not musician, just amateur hobbyist in music/sound/audio =)
 
+**Output sounds at freesound.org:**
+
+Singing frogs (multiple sounds & passes): 
+[http://www.freesound.org/people/maghas99/sounds/259308/](http://www.freesound.org/people/maghas99/sounds/259308/)
+
+Alien speech: 
+[http://freesound.org/people/maghas99/sounds/259129/](http://freesound.org/people/maghas99/sounds/259129/)
+
+Swinging piano: 
+[http://freesound.org/people/maghas99/sounds/259131/](http://freesound.org/people/maghas99/sounds/259131/)
+
+Violin mosquito: 
+[http://freesound.org/people/maghas99/sounds/259130/](http://freesound.org/people/maghas99/sounds/259130/)
+
+
 **Blog post:**
 
 [http://blog.wijono.org/2015/01/sound-transformation-with-mtgs-spectral.html](http://blog.wijono.org/2015/01/sound-transformation-with-mtgs-spectral.html) 
